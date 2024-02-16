@@ -9,7 +9,7 @@ Para compilar y ejecutar el proyecto desde la línea de comandos, sigue estos pa
     Navega hasta el directorio donde se encuentra el proyecto.
     Compila el proyecto utilizando el siguiente comando:
 
-javac Main1.java
+    javac Main1.java
 
 Ejecuta el programa utilizando el siguiente comando:
 
