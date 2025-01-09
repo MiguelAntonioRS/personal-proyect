@@ -3,7 +3,7 @@ Mi Primer Proyecto "Por Algo se Comienza"
 Este proyecto es un sistema de gestión para la Universidad de Holguin. Permite agregar estudiantes y profesores, listarlos, y buscar personas por su Carnet de Identidad (CI).
 Comandos de CMD. 
   
-Para compilar y ejecutar el proyecto desde la línea de comandos, sigue estos pasos: 
+Para compilar y ejecutar el proyecto desde la línea de comandos, sigue estos pasos:  
 
     Abre una terminal o línea de comandos. 
     Navega hasta el directorio donde se encuentra el proyecto.   
