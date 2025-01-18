@@ -13,7 +13,7 @@ Para compilar y ejecutar el proyecto desde la línea de comandos, sigue estos pa
    
 Ejecuta el programa utilizando el siguiente comando:
  
-    java Main1
+    java Main1 
 
 Funcionalidades
 
