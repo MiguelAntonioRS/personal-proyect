@@ -16,7 +16,7 @@ Ejecuta el programa utilizando el siguiente comando:
     java Main1 
 
 Funcionalidades
- 
+  
     Agregar estudiantes y profesores.
     Listar estudiantes y profesores.
     Buscar personas por su CI.
