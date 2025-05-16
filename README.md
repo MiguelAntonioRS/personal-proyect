@@ -6,7 +6,7 @@ Comandos de CMD.
 Para compilar y ejecutar el proyecto desde la línea de comandos, sigue estos pasos:
 
     Abre una terminal o línea de comandos. 
-    Navega hasta el directorio donde se encuentra el proyecto. 
+    Navega hasta el directorio donde se encuentra el proyecto.
     Compila el proyecto utilizando el siguiente comando:
   
     javac Main1.java
