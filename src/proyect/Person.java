@@ -4,6 +4,7 @@ public class Person {
     private String firstName;
     private String lastName;
     private String ci;
+    // testing
    
     public Person(String name, String lastName, String ci) {
         this.firstName = name;
